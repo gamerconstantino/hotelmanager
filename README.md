@@ -54,11 +54,12 @@ Consulte backend/API.md para ver as rotas, autenticação, filtros e campos de e
 
 ## GitHub como portefólio
 
-Perfil do projecto: [ConstantinoCoder](https://github.com/gamerconstantino).
+Este repositório apresenta o projecto de portefólio HotelManager de ConstantinoCoder.
 
-O repositório pode ser público para apresentar o código. O ficheiro .gitignore exclui credenciais locais, dependências instaladas e ficheiros de compilação; backend/.env.example contém apenas valores de exemplo.
+- Repositório: [HotelManager](https://github.com/gamerconstantino/hotelmanager).
+- Perfil: [ConstantinoCoder](https://github.com/gamerconstantino).
 
-Para publicar o código, crie no GitHub um repositório chamado hotelmanager e envie a branch main. Não inclua ficheiros .env nem dados reais de hóspedes. O GitHub Pages serve apenas a interface estática; para executar o sistema completo, também é necessário alojar a API e a base MySQL.
+O ficheiro `.gitignore` exclui credenciais locais, dependências instaladas e ficheiros de compilação. `backend/.env.example` contém apenas valores de exemplo. Não inclua ficheiros `.env` nem dados reais de hóspedes. O GitHub Pages serve a interface estática; para executar o sistema completo, também é necessário alojar a API e a base MySQL.
 
 ## Próximas etapas
 
